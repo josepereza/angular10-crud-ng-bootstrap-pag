@@ -3,7 +3,9 @@
 * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 * we'll need to prepare a JSON REST API that we can consume using HttpClient.
 ** https://www.npmjs.com/package/json-server
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
+
+## Running json-server
+Run `npm run server`
 
 ## Development server
 
